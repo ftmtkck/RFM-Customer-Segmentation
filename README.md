@@ -64,3 +64,12 @@ The goal is to analyze customer behavior and group customers based on their purc
 
 * Apply churn prediction model
 * Build machine learning model for customer classification
+
+### 📊 Görsel Analizler
+
+**Müşteri Segmentlerinin Dağılımı**
+![Müşteri Segmentasyonu](customer_segments_distribution.png)
+
+**Segment Bazlı Harcama ve Yenilik Analizi**
+![Analiz Grafikleri](average_monetary_value_by_segment.png)
+![Analiz Grafikleri](average_recency_by_segment.png)
