@@ -48,22 +48,23 @@ The goal is to analyze customer behavior and group customers based on their purc
 * Churn analysis
 * Machine learning models for prediction
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
+---
 
-## 📂 Output
+## 🇹🇷 Türkçe Özet
 
-* Customer segments
-* RFM scores
-* Visual analysis of customer behavior
+Bu proje, RFM (Recency, Frequency, Monetary) analizi kullanarak müşteri segmentasyonu yapmayı amaçlamaktadır.
 
-## 🚀 Next Steps
+Müşteriler;
 
-* Apply churn prediction model
-* Build machine learning model for customer classification
+* Son alışveriş zamanı (Recency)
+* Sipariş sıklığı (Frequency)
+* Toplam harcama (Monetary)
 
+Kriterlerine göre analiz edilmiş ve farklı segmentlere ayrılmıştır.
 
+Bu sayede işletmeler;
+
+* Değerli müşterilerini belirleyebilir
+* Risk altındaki müşterileri tespit edebilir
+* Pazarlama stratejilerini optimize edebilir
 
