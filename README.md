@@ -48,6 +48,13 @@ The goal is to analyze customer behavior and group customers based on their purc
 * Churn analysis
 * Machine learning models for prediction
 
+## 💡 Business Insights & Actions
+
+* Champions customers generate the highest revenue → focus on retention strategies  
+* At Risk customers show declining activity → targeted campaigns are required  
+* Lost customers have high churn probability → reactivation campaigns can be tested  
+* New customers should be nurtured to increase frequency
+
 ---
 
 ## 🇹🇷 Türkçe Özet
